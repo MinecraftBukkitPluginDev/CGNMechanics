@@ -1,0 +1,5 @@
+name: CGNMechanincs
+version: 1.0
+author: Tillthen
+main: cgnmechanics.Main
+description: Better mechanics
